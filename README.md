@@ -8,5 +8,5 @@
 
 ## 🔧 Skill
 
-- C/C++, Python, Rust, JavaScript, HTML, CSS, MERN Stack, Node.js, Express.js, MongoDB, MySQL, Git
+- C/C++, Assembly, Python, Rust, JavaScript, HTML, CSS, MERN Stack, Node.js, Express.js, MongoDB, MySQL, Git
 - Docker, Kubernetes
