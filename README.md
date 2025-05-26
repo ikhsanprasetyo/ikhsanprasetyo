@@ -15,3 +15,4 @@
 - MongoDB, MySQL
 - Docker, Kubernetes
 - Familiar with Linux, Windows operating systems
+- IDA Pro, Ghidra, Reclass.Net
