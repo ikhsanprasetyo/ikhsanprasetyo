@@ -8,5 +8,10 @@
 
 ## 🔧 Skill
 
-- C/C++, Assembly, Python, Rust, JavaScript, HTML, CSS, MERN Stack, Node.js, Express.js, MongoDB, MySQL, Git
+- C/C++, Assembly, Python, Rust, JavaScript, HTML, CSS, MERN Stack, NodeJs, ExpressJs, Git
+- Develop Kernel Driver, Web Development, Machine Learning
+- ReactJs, Redux, React Router, React Query, Tailwind, Bootstrap,
+- ImGui
+- MongoDB, MySQL
 - Docker, Kubernetes
+- Familiar with Linux, Windows operating systems
