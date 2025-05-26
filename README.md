@@ -10,7 +10,7 @@
 
 - C/C++, Assembly, Python, Rust, JavaScript, HTML, CSS, MERN Stack, NodeJs, ExpressJs, Git
 - Develop Windows Kernel Driver, Web Development, Machine Learning
-- ReactJs, Redux, React Router, React Query, Tailwind, Bootstrap,
+- ReactJs, Redux, React Router, React Query, Tailwind, Bootstrap
 - ImGui
 - MongoDB, MySQL
 - Docker, Kubernetes
