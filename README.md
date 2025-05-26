@@ -8,7 +8,7 @@
 
 ## 🏆 Trophy GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikhsanprasetyo&theme=dark)](https://github.com/ikhsanprasetyo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikhsanprasetyo&theme=radical)](https://github.com/ikhsanprasetyo)
 
 ## 🔧 Skill
 
