@@ -14,5 +14,5 @@
 - ImGui
 - MongoDB, MySQL
 - Docker, Kubernetes
-- Familiar with Linux, Windows operating systems
+- Familiar with Windows, Linux operating systems
 - IDA Pro, Ghidra, Reclass.Net
