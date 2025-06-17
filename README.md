@@ -1,6 +1,6 @@
 ## 🔥 Streak Contribution
 
-![Streak](https://streak-stats.demolab.com/?user=ikhsanprasetyo&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ikhsanprasetyo&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 Trophy GitHub
 
