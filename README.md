@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ikhsanprasetyo) -->
 ## 🏆 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikhsanprasetyo)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanprasetyo&layout=compact&theme=radical)
 
 ## 🔧 Skill
 
