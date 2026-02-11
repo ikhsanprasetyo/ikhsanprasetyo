@@ -9,6 +9,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ikhsanprasetyo?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
+https://octostats.mondov.dev/widget?username=<ikhsanprasetyo>&type=<widget-type>&timeframe=<timeframe>&width=<width>
+
 ## 🔧 Skill
 
 - C/C++, Assembly, Python, Rust, Javascript, Typescript, Golang, Gin, HTML, CSS, MERN Stack, NodeJs, ExpressJs, Git, REST API
