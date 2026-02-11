@@ -2,9 +2,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ikhsanprasetyo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## 🏆 Trophy GitHub
+<!-- ## 🏆 Trophy GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ikhsanprasetyo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ikhsanprasetyo) -->
+## 🏆 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikhsanprasetyo&show_icons=true&theme=radical)
 
 ## 🔧 Skill
 
