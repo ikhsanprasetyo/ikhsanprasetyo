@@ -8,11 +8,11 @@
 
 ## 🔧 Skill
 
-- C/C++, Assembly, Python, Rust, Javascript, Typescript, HTML, CSS, MERN Stack, NodeJs, ExpressJs, Git
+- C/C++, Assembly, Python, Rust, Javascript, Typescript, Golang, Gin, HTML, CSS, MERN Stack, NodeJs, ExpressJs, Git, REST API
 - Develop Windows Apps, Windows Kernel Driver, Web Development, Machine Learning
 - ReactJs, Redux, React Router, React Query, Tailwind, Bootstrap
 - ImGui
-- MongoDB, MySQL
+- MongoDB, MySQL, Postgre
 - Docker, Kubernetes
 - Familiar with Windows, Linux operating systems
 - IDA Pro, Ghidra, Reclass.Net
