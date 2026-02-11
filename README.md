@@ -4,10 +4,11 @@
 
 <!-- ## 🏆 Trophy GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ikhsanprasetyo) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikhsanprasetyo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 ## 🏆 Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikhsanprasetyo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanprasetyo&layout=compact&theme=radical)
 
 ## 🔧 Skill
 
