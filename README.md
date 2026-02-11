@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ikhsanprasetyo) -->
 ## 🏆 Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikhsanprasetyo)](https://github.com/ikhsanprasetyo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikhsanprasetyo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔧 Skill
 
