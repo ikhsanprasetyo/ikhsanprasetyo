@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikhsanprasetyo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 ## 🏆 Stats
 
-[![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ikhsanprasetyo)]
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ikhsanprasetyo?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🔧 Skill
 
