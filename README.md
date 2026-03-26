@@ -21,7 +21,8 @@
 - Familiar with Windows, Linux operating systems
 - IDA Pro, Ghidra, Reclass.Net
 
-<h3 align="center">My Tech Stack</h3>
+## 💻 My Tech Stack
+
 <table width="100%">
   <tr>
     <td align="center" width="100%">
