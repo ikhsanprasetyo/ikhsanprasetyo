@@ -23,7 +23,7 @@
 
 ## 💻 My Tech Stack
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 7px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="resources/svg/c.svg" width="40" height="40" alt="C">
   <img src="resources/svg/cpp.svg" width="40" height="40" alt="C++">
   <img src="resources/svg/rust.svg" width="40" height="40" alt="Rust">
