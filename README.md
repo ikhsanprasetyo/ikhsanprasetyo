@@ -30,7 +30,7 @@
   <img src="resources/svg/javascript.svg" width="40" height="40" alt="JavaScript">
   <img src="resources/svg/python.svg" width="40" height="40" alt="Python">
   <img src="resources/svg/bash.svg" width="40" height="40" alt="Bash">
-  <img src="resources/svg/at.svg" width="40" height="40" alt="Assembly">
+  <img src="resources/svg/assembly.svg" width="40" height="40" alt="Assembly">
   <br>
   <img src="resources/svg/reactjs.svg" width="40" height="40" alt="React">
   <img src="resources/svg/nextjs.svg" width="40" height="40" alt="Next.js">
