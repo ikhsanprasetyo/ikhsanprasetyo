@@ -24,19 +24,17 @@
 <p align='left'>
   <img src="resources/svg/c.svg" width="40" height="40" alt="C">
   <img src="resources/svg/cpp.svg" width="40" height="40" alt="C++">
-  <img src="resources/svg/csharp.svg" width="40" height="40" alt="C#">
-  <img src="resources/svg/python.svg" width="40" height="40" alt="Python">
   <img src="resources/svg/javascript.svg" width="40" height="40" alt="JavaScript">
+  <img src="resources/svg/typescript.svg" width="40" height="40" alt="TypeScript">
+  <img src="resources/svg/golang.svg" width="40" height="40" alt="Golang">
+  <img src="resources/svg/rust.svg" width="40" height="40" alt="Rust">
+  <img src="resources/svg/python.svg" width="40" height="40" alt="Python">
   <img src="resources/svg/html.svg" width="40" height="40" alt="HTML">
   <img src="resources/svg/css.svg" width="40" height="40" alt="CSS">
   <img src="resources/svg/bash.svg" width="40" height="40" alt="Bash">
   <br>
-  <img src="resources/svg/dotnet.svg" width="40" height="40" alt=".NET">
-  <img src="resources/svg/arduino.svg" width="40" height="40" alt="Arduino">
   <img src="resources/svg/git.svg" width="40" height="40" alt="Git">
   <img src="resources/svg/mysql.svg" width="40" height="40" alt="MySQL">
   <img src="resources/svg/at.svg" width="40" height="40" alt="Assembly">
-  <img src="resources/svg/unity.svg" width="40" height="40" alt="Unity">
-  <img src="resources/svg/ue.svg" width="40" height="40" alt="Unreal Engine">
   <img src="resources/svg/linux.svg" width="40" height="40" alt="Linux">
 </p>
