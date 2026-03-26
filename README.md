@@ -27,7 +27,7 @@
       <img src="resources/svg/c.svg" width="40" height="40" alt="C">
       <img src="resources/svg/cpp.svg" width="40" height="40" alt="C++">
       <img src="resources/svg/rust.svg" width="40" height="40" alt="Rust">
-      <img src="resources/svg/go.svg" width="40" height="40" alt="Go">
+      <img src="resources/svg/go.svg" width="40" height="40" alt="Go" color="#00ADD8">
       <img src="resources/svg/typescript.svg" width="40" height="40" alt="TypeScript">
       <img src="resources/svg/javascript.svg" width="40" height="40" alt="JavaScript">
       <img src="resources/svg/python.svg" width="40" height="40" alt="Python">
