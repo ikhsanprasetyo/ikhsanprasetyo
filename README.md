@@ -16,7 +16,7 @@
 - Develop Windows Apps, Windows Kernel Driver, Web Development, Machine Learning
 - ReactJs, Redux, React Router, React Query, Tailwind, Bootstrap
 - ImGui
-- PostgreSQL, MongoDB, MySQL, SQLite
+- PostgreSQL, MongoDB, MySQL
 - Docker, Kubernetes
 - Familiar with Windows, Linux operating systems
 - IDA Pro, Ghidra, Reclass.Net
@@ -43,5 +43,5 @@
   <br>
   <img src="resources/svg/postgresql.svg" width="40" height="40" alt="PostgreSQL">
   <img src="resources/svg/mongodb.svg" width="40" height="40" alt="MongoDB">
-  <img src="resources/svg/sqlite.svg" width="40" height="40" alt="SQLite">
+  <img src="resources/svg/mysql.svg" width="40" height="40" alt="MySQL">
 </p>
