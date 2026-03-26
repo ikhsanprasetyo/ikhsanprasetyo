@@ -16,7 +16,7 @@
 - Develop Windows Apps, Windows Kernel Driver, Web Development, Machine Learning
 - ReactJs, Redux, React Router, React Query, Tailwind, Bootstrap
 - ImGui
-- MongoDB, MySQL, Postgre
+- PostgreSQL, MongoDB, MySQL, SQLite
 - Docker, Kubernetes
 - Familiar with Windows, Linux operating systems
 - IDA Pro, Ghidra, Reclass.Net
@@ -24,17 +24,24 @@
 <p align='left'>
   <img src="resources/svg/c.svg" width="40" height="40" alt="C">
   <img src="resources/svg/cpp.svg" width="40" height="40" alt="C++">
-  <img src="resources/svg/javascript.svg" width="40" height="40" alt="JavaScript">
-  <img src="resources/svg/typescript.svg" width="40" height="40" alt="TypeScript">
-  <img src="resources/svg/go.svg" width="40" height="40" alt="Golang" color="#00ADD8">
   <img src="resources/svg/rust.svg" width="40" height="40" alt="Rust">
+  <img src="resources/svg/go.svg" width="40" height="40" alt="Go">
+  <img src="resources/svg/typescript.svg" width="40" height="40" alt="TypeScript">
+  <img src="resources/svg/javascript.svg" width="40" height="40" alt="JavaScript">
   <img src="resources/svg/python.svg" width="40" height="40" alt="Python">
+  <img src="resources/svg/bash.svg" width="40" height="40" alt="Bash">
+  <img src="resources/svg/at.svg" width="40" height="40" alt="Assembly">
+  <br>
+  <img src="resources/svg/reactjs.svg" width="40" height="40" alt="React">
+  <img src="resources/svg/nextjs.svg" width="40" height="40" alt="Next.js">
+  <img src="resources/svg/nodejs.svg" width="40" height="40" alt="Node.js">
   <img src="resources/svg/html.svg" width="40" height="40" alt="HTML">
   <img src="resources/svg/css.svg" width="40" height="40" alt="CSS">
-  <img src="resources/svg/bash.svg" width="40" height="40" alt="Bash">
-  <br>
   <img src="resources/svg/git.svg" width="40" height="40" alt="Git">
-  <img src="resources/svg/mysql.svg" width="40" height="40" alt="MySQL">
-  <img src="resources/svg/at.svg" width="40" height="40" alt="Assembly">
+  <img src="resources/svg/docker.svg" width="40" height="40" alt="Docker">
   <img src="resources/svg/linux.svg" width="40" height="40" alt="Linux">
+  <br>
+  <img src="resources/svg/postgresql.svg" width="40" height="40" alt="PostgreSQL">
+  <img src="resources/svg/mongodb.svg" width="40" height="40" alt="MongoDB">
+  <img src="resources/svg/sqlite.svg" width="40" height="40" alt="SQLite">
 </p>
