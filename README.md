@@ -9,6 +9,7 @@
 ## 🏆 Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ikhsanprasetyo?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanprasetyo&hide_progress=false&layout=donut&size_weight=0.5&count_weight=0.5&theme=dark&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=4&card_width=280" height="200" style="display:inline-block;">
 
 ## 🔧 Skill
 
