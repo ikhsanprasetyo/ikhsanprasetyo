@@ -33,7 +33,6 @@
   <img src="resources/svg/python.svg" width="40" height="40" alt="Python">
   <img src="resources/svg/bash.svg" width="40" height="40" alt="Bash">
   <img src="resources/svg/assembly.png" width="40" height="40" alt="Assembly">
-  <br>
   <img src="resources/svg/reactjs.svg" width="40" height="40" alt="React">
   <img src="resources/svg/nextjs.png" width="40" height="40" alt="Next.js">
   <img src="resources/svg/nodejs.svg" width="40" height="40" alt="Node.js">
@@ -42,7 +41,6 @@
   <img src="resources/svg/git.svg" width="40" height="40" alt="Git">
   <img src="resources/svg/docker.svg" width="40" height="40" alt="Docker">
   <img src="resources/svg/linux.svg" width="40" height="40" alt="Linux">
-  <br>
   <img src="resources/svg/postgresql.svg" width="40" height="40" alt="PostgreSQL">
   <img src="resources/svg/mongodb.svg" width="40" height="40" alt="MongoDB">
   <img src="resources/svg/mysql.svg" width="40" height="40" alt="MySQL">
