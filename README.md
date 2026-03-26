@@ -35,7 +35,7 @@
       <img src="resources/svg/assembly.png" width="40" height="40" alt="Assembly">
       <br>
       <img src="resources/svg/reactjs.svg" width="40" height="40" alt="React">
-      <img src="resources/svg/nextjs.svg" width="40" height="40" alt="Next.js">
+      <img src="resources/svg/nextjs.png" width="40" height="40" alt="Next.js">
       <img src="resources/svg/nodejs.svg" width="40" height="40" alt="Node.js">
       <img src="resources/svg/html.svg" width="40" height="40" alt="HTML">
       <img src="resources/svg/css.svg" width="40" height="40" alt="CSS">
