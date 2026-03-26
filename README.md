@@ -15,7 +15,7 @@
 
 - C/C++, Assembly, Python, Rust, Javascript, Typescript, Golang, Gin, HTML, CSS, MERN Stack, NodeJs, ExpressJs, Git, REST API
 - Develop Windows Apps, Windows Kernel Driver, Web Development, Machine Learning
-- ReactJs, Redux, React Router, React Query, Tailwind, Bootstrap
+- ReactJs, NextJs, Redux, React Router, React Query, Tailwind, Bootstrap
 - ImGui
 - PostgreSQL, MongoDB, MySQL
 - Docker, Kubernetes
