@@ -14,7 +14,7 @@
 ## 🔧 Skill
 
 - C/C++, Assembly, Python, Rust, Javascript, Typescript, Golang, Gin, Wails, HTML, CSS, MERN Stack, NodeJs, ExpressJs, Git, REST API
-- Develop Windows Apps, Windows Kernel Driver, Web Development, Machine Learning
+- Develop Windows Apps, Windows Kernel Driver, Web Apps, Machine Learning
 - ReactJs, NextJs, React Native, Redux, React Router, React Query, Tailwind, Bootstrap
 - ImGui
 - PostgreSQL, MongoDB, MySQL
