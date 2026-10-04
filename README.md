@@ -15,9 +15,9 @@
 
 - C/C++, Assembly, Python, Rust, Javascript, Typescript, Golang, Gin, Wails, HTML, CSS, MERN Stack, NodeJs, ExpressJs, Git, REST API
 - Develop Windows Apps, Windows Kernel Driver, Web Apps, Machine Learning
-- ReactJs, NextJs, React Native, Redux, React Router, React Query, Tailwind, Bootstrap
+- ReactJs, NextJs, Svelte, React Native, Redux, React Router, React Query, Tailwind, Bootstrap
 - ImGui
-- PostgreSQL, MongoDB, MySQL
+- PostgreSQL, MongoDB, MySQL, SQLite
 - Docker, Kubernetes
 - Familiar with Windows, Linux operating systems
 - IDA Pro, Ghidra, Reclass.Net
@@ -36,6 +36,7 @@
   <img src="resources/svg/assembly.png" width="40" height="40" alt="Assembly">
   <img src="resources/svg/reactjs.svg" width="40" height="40" alt="React">
   <img src="resources/svg/nextjs.png" width="40" height="40" alt="Next.js">
+  <img src="resources/svg/svelte.svg" width="40" height="40" alt="Svelte">
   <img src="resources/svg/nodejs.svg" width="40" height="40" alt="Node.js">
   <img src="resources/svg/html.svg" width="40" height="40" alt="HTML">
   <img src="resources/svg/css.svg" width="40" height="40" alt="CSS">
